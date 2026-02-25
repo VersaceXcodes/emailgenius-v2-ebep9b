@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mvp-web-foundation",
+    "category": "functional",
+    "description": "Build a complete production-ready web app MVP based on this request: Build EmailGenius - a simple AI email writer app. Core MVP: 1) Landing page with signup, 2) Dashboard after login, 3) Simple email generator form (user inputs topic, tone, gets AI response), 4) Email preview, 5) Copy to clipboard button, 6) Basic Stripe payment integration (9/month). Use Next.js, React, TailwindCSS for frontend. Node.js express backend with OpenAI API integration. PostgreSQL for user data. Keep it simple and deploy as soon as possible.",
+    "steps": [
+      "Implement the primary user flow described in the request",
+      "Create polished UI screens/components for all core flows",
+      "Connect real data/state management and backend interactions",
+      "Run lint/type/build checks and resolve errors",
+      "Verify all core flows in preview and mark this feature as passed"
+    ],
+    "priority": 1,
+    "order": 1,
+    "selected": true,
+    "status": "completed",
+    "passes": true,
+    "completedAt": "2026-02-25T04:22:58.997Z"
+  }
+]
